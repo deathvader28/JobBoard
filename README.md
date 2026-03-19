@@ -37,6 +37,3 @@ npm run dev
 
 
 
-📌 Description
-
-A frontend project that simulates a real-world job portal with curated listings across multiple domains (Frontend, Backend, AI/ML, DevOps, etc.), focusing on UI/UX, state management, and performance.
